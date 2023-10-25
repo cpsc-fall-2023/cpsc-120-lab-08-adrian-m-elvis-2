@@ -1,7 +1,7 @@
 // Adrian Martinez
 // AdrianM22@csu.fullerton.edu
 // @Martinez-Adrian 
-// Partner: @Enventre
+// Partners: @Enventre
 //
 
 
